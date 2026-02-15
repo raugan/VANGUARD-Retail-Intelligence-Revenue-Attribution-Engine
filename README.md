@@ -326,9 +326,9 @@ Key takeaways:
 
 ## 📧 Contact & Additional Resources
 
-**Portfolio Website:** [Your Website]  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]  
+**Portfolio Website:** [[Your Website](https://v0-resume-creation-three-lilac.vercel.app/)]  
+**LinkedIn:** [www.linkedin.com/in/anurag-chakrabarti-4919a7255]  
+**Email:** [anuragchakrabarti58@mail.com]  
 
 **Recommended Next Steps:**
 1. Review the `Executive_Board_Report.pdf` for high-level business context
