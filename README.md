@@ -326,7 +326,7 @@ Key takeaways:
 
 ## 📧 Contact & Additional Resources
 
-**Portfolio Website:** [[Your Website](https://v0-resume-creation-three-lilac.vercel.app/)]  
+**Portfolio Website:** [https://v0-resume-creation-three-lilac.vercel.app/]  
 **LinkedIn:** [www.linkedin.com/in/anurag-chakrabarti-4919a7255]  
 **Email:** [anuragchakrabarti58@mail.com]  
 
