@@ -1,0 +1,16 @@
+Product_SKU,Product_Name,Category,Unit_Price,Cost_of_Goods,Profit_Margin,Stock_Level,Reorder_Point,Supplier,Launch_Date,Status
+SKU001,Wireless Headphones Pro,Electronics,299.99,120.00,60.0%,450,100,TechSupply Inc,2024-03-15,Active
+SKU002,Classic Cotton T-Shirt,Clothing,49.99,17.50,65.0%,800,150,Fashion Direct,2024-01-10,Active
+SKU003,Smart Watch Elite,Electronics,149.99,67.50,55.0%,320,80,TechSupply Inc,2024-05-20,Active
+SKU004,Garden Tool Set,Home & Garden,89.99,34.20,62.0%,180,40,HomeGoods Co,2024-02-28,Active
+SKU005,Designer Jeans,Clothing,79.99,28.80,64.0%,250,60,Fashion Direct,2024-04-12,Active
+SKU006,Outdoor Patio Chair,Home & Garden,129.99,50.70,61.0%,95,25,HomeGoods Co,2024-06-01,Active
+SKU007,Smart Thermostat,Home & Garden,199.99,84.00,58.0%,140,35,SmartHome Ltd,2024-07-15,Active
+SKU008,4K Streaming Device,Electronics,399.99,172.00,57.0%,280,70,TechSupply Inc,2024-08-05,Active
+SKU009,Gaming Laptop,Electronics,549.99,247.50,55.0%,85,20,TechSupply Inc,2024-09-10,Active
+SKU010,Winter Jacket,Clothing,129.99,52.00,60.0%,150,40,Fashion Direct,2024-10-01,Active
+SKU011,Electric Lawn Mower,Home & Garden,249.99,112.50,55.0%,45,15,HomeGoods Co,2024-11-15,Active
+SKU012,Bluetooth Speaker,Electronics,79.99,32.00,60.0%,520,120,TechSupply Inc,2024-03-01,Active
+SKU013,Yoga Mat Set,Home & Garden,39.99,14.40,64.0%,380,90,FitnessPro Inc,2024-04-20,Active
+SKU014,Running Shoes,Clothing,99.99,40.00,60.0%,420,100,Athletic Wear Co,2024-05-15,Active
+SKU015,Coffee Maker Deluxe,Home & Garden,149.99,67.50,55.0%,165,45,Appliance Plus,2024-06-30,Active

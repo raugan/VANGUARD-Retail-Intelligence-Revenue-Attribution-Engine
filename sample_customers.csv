@@ -1,0 +1,12 @@
+Customer_ID,Customer_Name,Email,Phone,Registration_Date,Customer_Segment,Lifetime_Value,Total_Transactions,Avg_Transaction_Value,Region,Age_Group,Preferred_Category
+CUST001,John Anderson,john.anderson@email.com,555-0101,2024-06-15,Premium,1349.95,4,337.49,West,35-44,Electronics
+CUST002,Sarah Martinez,sarah.m@email.com,555-0102,2024-08-22,Premium,1079.93,4,269.98,East,25-34,Electronics
+CUST003,Michael Chen,m.chen@email.com,555-0103,2024-09-10,Standard,609.95,3,203.32,South,45-54,Home & Garden
+CUST004,Emily Johnson,emily.j@email.com,555-0104,2024-10-05,Standard,759.96,2,379.98,North,35-44,Electronics
+CUST005,David Park,d.park@email.com,555-0105,2024-07-18,Premium,579.96,2,289.98,West,25-34,Electronics
+CUST006,Lisa Brown,lisa.brown@email.com,555-0106,2024-11-12,Standard,599.95,2,299.98,East,18-24,Clothing
+CUST007,Robert Taylor,r.taylor@email.com,555-0107,2025-01-20,New,199.99,1,199.99,North,55-64,Home & Garden
+CUST008,Jennifer Lee,jen.lee@email.com,555-0108,2025-01-28,New,99.98,1,99.98,West,25-34,Clothing
+CUST009,William Garcia,w.garcia@email.com,555-0109,2025-02-01,New,269.97,1,269.97,South,35-44,Home & Garden
+CUST010,Amanda Wilson,amanda.w@email.com,555-0110,2025-02-03,New,549.99,1,549.99,West,25-34,Electronics
+CUST011,Christopher Moore,c.moore@email.com,555-0111,2025-02-05,New,249.99,1,249.99,East,45-54,Home & Garden
